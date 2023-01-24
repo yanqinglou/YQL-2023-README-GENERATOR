@@ -12,7 +12,7 @@ inquirer
       type: "checkbox",
       name: "license",
       message: "Which license the application is covered under",
-      choices: ["MIT", "MIT License", "Apache"],
+      choices: ["MIT", "MIT License", "Apache","None"],
     },
     {
       type: "input",
