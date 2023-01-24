@@ -72,20 +72,20 @@ inquirer
 ## ${data.projecttitle}
 
 ## Table of Content
--[Description](#description)
--[Installation](#installation)
--[Usage](#usage)
--[Contribution](#contribution)
--[Test](#test)
--[Question](#question)
+*[Description](#description)
+*[Installation](#installation)
+*[Usage](#usage)
+*[Contribution](#contribution)
+*[Test](#test)
+*[Question](#question)
 
 ## Description
 ${data.description}
 
 ## Installation
-1.${data.installation1}
-2.${data.installation2}
-3.${data.installation3}
+*${data.installation1}
+*${data.installation2}
+*${data.installation3}
 
 ## Usage
 ${data.usage}
@@ -97,8 +97,8 @@ ${data.contribution}
 ${data.test}
 
 ## Question
-Github: Please see more profiles at my [GitHub profile](https://github.com/${data.githubprofile})
-Contact: Please contact me by email :(${data.email}) if you have any questions.
+* Github: Please see more profiles at my [GitHub profile](https://github.com/${data.githubprofile})
+* Contact: Please contact me by email :(${data.email}) if you have any questions.
     `,
       (err) => (err ? console.log(err) : console.log("Success!"))
     );
