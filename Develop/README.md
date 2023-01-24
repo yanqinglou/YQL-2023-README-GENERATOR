@@ -1,5 +1,5 @@
 
-## readme
+## readme generator
 
 ## Table of Content
 *[Description](#description)
@@ -10,23 +10,23 @@
 *[Question](#question)
 
 ## Description
-xx
+to generate the readme file faster
 
 ## Installation
-*1
-*2
-*3
+*step1 to open the file
+*step2 to install it
+*step3 to see if the file is there
 
 ## Usage
 undefined
 
 ## Contribution
-ss
+see example
 
 ## Test
-ss
+see video
 
 ## Question
-*Github: Please see more profiles at my [GitHub profile](https://github.com/yanqinglou)
-*Contact: Please contact me by email :(ww) if you have any questions.
+* Github: Please see more profiles at my [GitHub profile](https://github.com/yanqinglou)
+* Contact: Please contact me by email :(yanqinglou@outlook.com) if you have any questions.
     

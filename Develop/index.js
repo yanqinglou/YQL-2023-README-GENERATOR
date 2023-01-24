@@ -69,7 +69,7 @@ inquirer
     fs.writeFile(
       filename,
       `
-## ${data.projecttitle}
+# ${data.projecttitle}
 
 ## Table of Content
 *[Description](#description)
