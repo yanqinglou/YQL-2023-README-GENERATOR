@@ -34,14 +34,7 @@ THEN I am taken to the corresponding section of the README
 
 ### Walkthrough Video: 27%
 
-* A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.
-
-* The walkthrough video must demonstrate how a user would invoke the application from the command line.
-
-* The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
-
-* The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
-
+[walkthrough video](./Develop/walkthrough%20video.webm)
 
 ## Review
 
