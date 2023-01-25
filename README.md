@@ -34,7 +34,7 @@ THEN I am taken to the corresponding section of the README
 
 ### Walkthrough Video: 27%
 
-[walkthrough video](./Develop/walkthrough%20video.webm)
+[walkthrough video](https://youtu.be/pm6o-R0rUVA)
 
 ## Review
 
